@@ -2,13 +2,15 @@
 ## These are my projects that I have created in Blender 3.6. 
 ### My first project: Donuts! 
 ![donuts](https://github.com/bhavikpanchal28/Blender-Projects/assets/32439746/d4a21519-c35f-4182-ad35-87bff588c613) 
-### HairBalls! 
+### HairBalls
 ![Hairballs](https://github.com/bhavikpanchal28/Blender-Projects/assets/32439746/cb9dbab0-5a2d-46f6-b677-5faf247f789f)
 
-### Waves! 
+### Waves 
 ![WavePattern](https://github.com/bhavikpanchal28/Blender-Projects/assets/32439746/d17487b6-ca8b-4e39-b1ed-52ae457010c0)
 
 ### Pattern
+![Pattern2](https://github.com/bhavikpanchal28/Blender-Projects/assets/32439746/e1914f05-7ed8-4729-860b-726cbfa68bb5)
+
 
 ### Grass!
 ![Grass](https://github.com/bhavikpanchal28/Blender-Projects/assets/32439746/d3a933aa-59b4-4285-929e-e702bd821d6c)
